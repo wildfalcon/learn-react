@@ -1,2 +1,3 @@
 //= require react
-//= require_tree .
+//= require components
+//= require app
